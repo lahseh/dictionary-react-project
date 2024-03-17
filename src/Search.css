@@ -1,3 +1,19 @@
-.Search {
-  text-align: center;
+.Search section {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 10px 10px rgba(0 0 0 / 10%);
+  margin: 20px 0;
+}
+
+.Search input {
+  width: 100%;
+  padding: 6px 10px;
+  color: #333;
+  border: 1px solid #ddd;
+}
+
+.Search .hint {
+  font-size: 10px;
+  margin-top: 10px;
 }
